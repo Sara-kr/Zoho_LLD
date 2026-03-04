@@ -203,8 +203,8 @@ Ticket Booked Successfully!
 ## 👤 Author
 
 **Your Name**
-- 🔗 LinkedIn: `linkedin.com/in/yourprofile`
-- 💻 GitHub: `github.com/yourusername`
+- 🔗 LinkedIn: `https://www.linkedin.com/in/saravanan-k-r/`
+- 💻 GitHub: `https://github.com/Sara-kr`
 
 ---
 
