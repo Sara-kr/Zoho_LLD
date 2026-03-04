@@ -202,9 +202,11 @@ Ticket Booked Successfully!
 
 ## 👤 Author
 
-**Your Name**
-- 🔗 LinkedIn: `https://www.linkedin.com/in/saravanan-k-r/`
-- 💻 GitHub: `https://github.com/Sara-kr`
+
+**Saravanan K R**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sara--kr-black?logo=github)](https://github.com/Sara-kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saravanan%20K%20R-blue?logo=linkedin)](https://linkedin.com/in/saravanan-k-r)
 
 ---
 
